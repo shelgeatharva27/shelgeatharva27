@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
+![Atharva’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvashelge27&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvashelge27&layout=compact&theme=tokyonight)
