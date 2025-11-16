@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🤖 Interests: Deep Learning, Computer Vision, Backend Engineering, Automation
 
-🎯 Goal: Become a full-stack AI Engineer
+🎯 Goal: Become a Software Development Engineer
 
 ✍️ I enjoy simplifying complex concepts for students & developers
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 Languages
 
-Python, Java, C++, JavaScript, TypeScript
+Python, SQL, R
 
 AI / ML
 
