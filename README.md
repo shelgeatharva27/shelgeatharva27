@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 
 <!--
 **shelgeatharva27/shelgeatharva27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 
 ![Atharva’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=shelgeatharva27&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shelgeatharva27&layout=compact&theme=tokyonight)
+
+Contact Me:
+
+📧 Email:
+shelgeatharva27@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/atharva-shelge/
