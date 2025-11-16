@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Atharva’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharva-shelge&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-shelge&layout=compact&theme=tokyonight)
+
