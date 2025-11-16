@@ -27,6 +27,47 @@ Here are some ideas to get you started:
 
 ✍️ I enjoy simplifying complex concepts for students & developers
 
+⚒️ Tech Stack:
+
+Languages
+
+Python, Java, C++, JavaScript, TypeScript
+
+AI / ML
+
+TensorFlow, PyTorch, Keras
+
+Scikit-Learn, OpenCV
+
+NLP, CV, LLM Integrations
+
+Backend
+
+Node.js + Express
+
+FastAPI
+
+MongoDB, Firebase, PostgreSQL
+
+Frontend & Tools
+
+React
+
+HTML, CSS, JS
+
+Git, GitHub
+
+Postman, VS Code
+
+PowerBI
+
+Docker (beginner)
+
+🤝 Open to Collaborations
+
+I’m open to collaborating on AI, ML, Backend, or Automation projects.
+Let’s connect and build something impactful!
+
 Contact Me:
 
 📧 Email:
