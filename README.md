@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 
 ✍️ I enjoy simplifying complex concepts for students & developers
 
+
 ⚒️ Tech Stack:
 
-Languages
+Languages:
 
 Python, SQL, R
 
@@ -41,15 +42,15 @@ Scikit-Learn, OpenCV
 
 NLP, CV, LLM Integrations
 
-Backend
 
-Node.js + Express
+Backend:
 
 FastAPI
 
 MongoDB, Firebase, PostgreSQL
 
-Frontend & Tools
+
+Frontend & Tools:
 
 React
 
@@ -63,6 +64,7 @@ PowerBI
 
 Docker (beginner)
 
+
 🤝 Open to Collaborations
 
 I’m open to collaborating on AI, ML, Backend, or Automation projects.
@@ -70,11 +72,9 @@ Let’s connect and build something impactful!
 
 Contact Me:
 
-📧 Email:
-shelgeatharva27@gmail.com
+📧 Email:shelgeatharva27@gmail.com
 
-💼 LinkedIn:
-https://www.linkedin.com/in/atharva-shelge/
+💼 LinkedIn: https://www.linkedin.com/in/atharva-shelge/
 
 ![Atharva’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=shelgeatharva27&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shelgeatharva27&layout=compact&theme=tokyonight)
